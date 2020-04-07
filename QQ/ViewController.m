@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    [self test];
+}
+
+- (void)test{
+    //update by LCF
 }
 
 - (void)didReceiveMemoryWarning {
