@@ -22,6 +22,8 @@
 
 - (void)test{
     //update by LCF
+    UIView *v = [UIView new];
+    v.backgroundColor = [UIColor redColor];
 }
 
 - (void)didReceiveMemoryWarning {
