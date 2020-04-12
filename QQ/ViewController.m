@@ -24,6 +24,7 @@
     //update by LCF
     UIView *v = [UIView new];
     v.backgroundColor = [UIColor redColor];
+    [self.view addSubview:v];
 }
 
 - (void)didReceiveMemoryWarning {
